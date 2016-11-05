@@ -1,0 +1,12 @@
+{
+    "name": "popoff17/axioma_sms",
+    "description": "class for sms sending",
+    "license": "free",
+    "authors": [
+        {
+            "name": "popoff17",
+            "email": "popoff17@yandex.ru"
+        }
+    ],
+    "require": {}
+}
